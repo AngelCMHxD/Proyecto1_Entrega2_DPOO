@@ -17,3 +17,6 @@ Usuarios de prueba (login / password):
 - carlos / carlos123 (entrenador)
 - andres / andres123 (fisioterapeuta)
 - admin / admin123 (administrador)
+
+# declaracion de IA
+se utilizó para la generacion de datos de prueba en `GeneradorDatosPrueba.java`, lo cual esta permitido bajo la guía de la actividad (datos mock-up). la logica sí fue creada a mano
